@@ -7,14 +7,14 @@
     <listType typeId="d02e57de-ba67-4c32-8535-0cbe8795fb42" valueTypeId="f408f976-6b8b-4664-b433-c2cd95c1f249"/>
     <managerType typeId="d2bdfc4c-bf8c-462c-848e-b80c5fcbf605" valueTypeId="6b328544-3702-4425-9d72-d4772caa9ec8"/>
   </producedTypes>
-  <name>КЛ_контактныеЛица</name>
+  <name>КЛ_КонтактныеЛица</name>
   <synonym>
     <key>ru</key>
     <value>Контактные лица</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Catalog.КЛ_контактныеЛица.StandardAttribute.Code</inputByString>
-  <inputByString>Catalog.КЛ_контактныеЛица.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.КЛ_КонтактныеЛица.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.КЛ_КонтактныеЛица.StandardAttribute.Description</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <createOnInput>Use</createOnInput>
   <dataLockControlMode>Managed</dataLockControlMode>
@@ -29,6 +29,7 @@
   </listPresentation>
   <levelCount>2</levelCount>
   <foldersOnTop>true</foldersOnTop>
+  <owners>Catalog.Контрагенты</owners>
   <codeLength>9</codeLength>
   <descriptionLength>150</descriptionLength>
   <codeType>String</codeType>
